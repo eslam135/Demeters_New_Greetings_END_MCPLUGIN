@@ -1,0 +1,189 @@
+Messages:
+  NotRole: "You Don't Have The Role To Use This Command."
+  WrongCMD: "You Are Using A SubCommand That Doesn't Exist."
+  NoMsg: "Please Enter A Message."
+  Exists: "Message Already Exists."
+  ExistsNot: "Can't Find Msg"
+  NoColor: "Please Enter a Color."
+
+Subs:
+  - "Add"
+  - "Drop"
+  - "Default"
+  - "Show"
+  - "Set"
+  - "Default"
+  - "Color"
+
+
+Default_Greetings:
+  - 'Welcome %player%'
+  - 'Hello There %player%'
+  - 'Welcome To Your New Server %player%'
+  - 'Hey Nice To See You %player%'
+  - 'Hope You Enjoy Playing Here %player%'
+  - 'Aloha, Welcome %player%'
+
+
+
+Greetings:
+  - 'Welcome %player%'
+  - 'Hello There %player%'
+  - 'Welcome To Your New Server %player%'
+  - 'Hey Nice To See You %player%'
+  - 'Hope You Enjoy Playing Here %player%'
+  - 'Aloha, Welcome %player%'
+
+Default_Greetings_Old_Player:
+  - 'Welcome Back Buddy! %player%'
+  - 'Nice To See You Again %player%'
+  - 'Hey Back! %player%'
+
+
+
+Greetings_Old_Player:
+  - 'Welcome Back Buddy! %player%'
+  - 'Nice To See You Again %player%'
+  - 'Hey Back! %player%'
+
+
+
+Default_Quittings:
+  - 'Cya!! %player%'
+  - 'GoodByee %player%'
+  - 'Wish To See You Again %player%'
+
+
+
+Quittings:
+  - 'Cya!! %player%'
+  - 'GoodByee %player%'
+  - 'Wish To See You Again %player%'
+
+
+RIP:
+  - 'RIP'
+  - 'Feels bad'
+  - 'Press F to pay respect'
+
+
+Default_RIP:
+  - 'RIP'
+  - 'Feels bad'
+  - 'Press F to pay respect'
+
+
+WcNew:
+  - "Welcome!"
+  - "Hi, There"
+  - "Enjoy Your time here"
+
+
+Default_WcNew:
+  - "Welcome!"
+  - "Hi, There"
+  - "Enjoy Your time here"
+
+
+Wc:
+  - 'Welcome Back'
+
+Default_Wc:
+  - 'Welcome Back'
+
+Bye:
+  - "Cya!"
+  - "GoodByeee"
+
+Default_Bye:
+  - "Cya!"
+  - "GoodByeee"
+
+
+Join_Color: '00FFFF'
+
+
+Leave_Color: '00FFFF'
+
+
+Death_Color: 'FF0000'
+
+
+Roles:
+  - "demeter.edit"
+
+Default_Roles:
+  - "demeter.edit"
+
+PROJECTILE:
+  - '%killer% shot %player% to death'
+KILLED:
+  - '%killer% just killed %player%'
+ENTITY_SWEEP_ATTACK:
+  - '%player% Was sweeped away'
+FALL:
+  - '%player% just died falliNG to death'
+CONTACT:
+  - '%player% just died Contacting either a cactus or a drip stone'
+SUFFOCATION:
+  - '%player% Suffocated To Death'
+FIRE:
+  - '%player% WAS EXPOSED TO FIRE DIRECTLY'
+FIRE_TICK:
+  - '%player% WAS BURNT TO DEATH'
+MELTING:
+  - '%player% died due to DAMAGE CAUSED BY A SNOWMAN MELTING'
+LAVA:
+  - '%player% WAS EXPOSED TO LAVA DIRECTLY'
+DROWNING:
+  - '%player% DROWNING TO DEATH'
+BLOCK_EXPLOSION:
+  - '%player% EXPLODED BY A BLOCK'
+ENTITY_EXPLOSION:
+  - '%player% Got Blown by an entity'
+VOID:
+  - '%player% DID NOT WANT TO LIVE IN THIS WORLD'
+LIGHTNING:
+  - 'ZEUS SAID HIS WORD ON %player% '
+SUICIDE:
+  - '%player% COMMITTED SUICIDE DO NOT BE LIKE HIM'
+STARVATION:
+  - '%player% LOST HIS HUNGER BAR HELP'
+POISON:
+  - '%player% ATE AN APPLE FROM A STRANGER'
+MAGIC:
+  - '%player% WAS TURNED INTO A RABBIT...DEAD ONE'
+WITHER:
+  - '%player% WITHERED WITH A WITHER INTO THE WEATHER'
+FALLING_BLOCK:
+  - '%player% WAS SQUASHED INTO MILLION PLAYERS'
+THORNS:
+  - 'KARMA GOT %player% BACK'
+DRAGON_BREATH:
+  - '%player% WAS BLOWN BY THE DRAGON'
+CUSTOM:
+  - '%player% WAS KILLED USING CUSTOM DAMAGE'
+FLY_INTO_WALL:
+  - '%player% CRASHED INTO WALL'
+HOT_FLOOR:
+  - '%player% JUST FOUND OUT THAT THE FLOOR IS LAVA'
+CRAMMING:
+  - 'THE PLACE WAS TOO CROWDY FOR %player% TO LIVE'
+FREEZE:
+  - '%player% DIED IN ANTARCTICA '
+SONIC_BOOM:
+  - '%player% WAS SONIC BOOMED BY A WARDEN'
+
+Sensor_Words:
+  - "Fuck"
+  - "Nigga"
+  - "Cunt"
+  - "Whore"
+
+ChatBool: False
+
+Default_Sensor_Words:
+  - "Fuck"
+  - "Nigga"
+  - "Cunt"
+  - "Whore"

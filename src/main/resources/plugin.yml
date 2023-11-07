@@ -1,0 +1,22 @@
+name: Final_Greetings
+version: '${project.version}'
+main: end.final_greetings.Final_Greetings
+api-version: 1.19
+authors: [ LS2, DANIELLE ]
+description: A Better version using better User experience plugin of demeter greetings
+commands:
+  Demeter:
+    usage: /Demter <Field> <EditType> <MSG>
+    description: Opening the Demeter Chat menu.
+  Bye:
+    usage: /Bye
+    description: An easier way for online players to farewell their friends.
+  WcNew:
+    usage: /WcNew
+    description: An easy way to welcome a new player.
+  Wc:
+    usage: /Wc
+    description: An easy way to welcome an already know player.
+  RIP:
+    usage: /RIP
+    description: An easy way to pay respect when someone dies.
